@@ -7,4 +7,6 @@ The program uses numbers to select options given and user input to create, updat
 
 The only python libraries used are json and datetime.
 
+It uses taskapp_storage.json in the same directory as the python script to store and manage the tasks data.
+
 Cheers! :)
